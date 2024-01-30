@@ -27,8 +27,5 @@ If you need to recompile the program, use the following command:
 
 Feel free to contribute to the development of this program. If you encounter any issues or have suggestions for enhancements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 Happy analyzing!
